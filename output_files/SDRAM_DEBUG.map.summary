@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Aug 24 19:00:18 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : SDRAM_DEBUG
+Top-level Entity Name : SDRAM_DEBUG
+Family : Cyclone IV E
+Total logic elements : 229
+    Total combinational functions : 210
+    Dedicated logic registers : 151
+Total registers : 151
+Total pins : 52
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

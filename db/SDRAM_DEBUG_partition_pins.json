@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ERROR",
+					"strict" : false
+				},
+				{
+					"name" : "end_write",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_ADDR[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_BA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_BA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_CMD[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_CMD[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_CMD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[14]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[15]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

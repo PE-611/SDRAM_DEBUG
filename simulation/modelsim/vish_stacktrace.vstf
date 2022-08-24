@@ -1,0 +1,156 @@
+# Current time Mon Aug 22 16:57:13 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 7528f20c. Traceback:
+# Current time Mon Aug 22 18:28:10 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00887a46. Traceback:
+# 0    0x00887a46: '<unknown (@0x887a46)>'
+# 1    0x00781803: '<unknown (@0x781803)>'
+# 2    0x0056bd55: '<unknown (@0x56bd55)>'
+# 3    0x0057d80a: '<unknown (@0x57d80a)>'
+# 4    0x0057dc49: '<unknown (@0x57dc49)>'
+# 5    0x0058108a: '<unknown (@0x58108a)>'
+# 6    0x0056db58: '<unknown (@0x56db58)>'
+# 7    0x005729b3: '<unknown (@0x5729b3)>'
+# 8    0x005172cb: '<unknown (@0x5172cb)>'
+# 9    0x753b39f1: '<unknown (@0x753b39f1)>'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Aug 22 19:14:07 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00643aeb. Traceback:
+# 0    0x00643aeb: '<unknown (@0x643aeb)>'
+# 1    0x00616887: '<unknown (@0x616887)>'
+# 2    0x00643e03: '<unknown (@0x643e03)>'
+# 3    0x00641d07: '<unknown (@0x641d07)>'
+# 4    0x005ee1f0: '<unknown (@0x5ee1f0)>'
+# 5    0x005b68b5: '<unknown (@0x5b68b5)>'
+# 6    0x0051c4f0: '<unknown (@0x51c4f0)>'
+# 7    0x0056d440: '<unknown (@0x56d440)>'
+# 8    0x0051c5da: '<unknown (@0x51c5da)>'
+# 9    0x0051c6f6: '<unknown (@0x51c6f6)>'
+# 10   0x00516da6: '<unknown (@0x516da6)>'
+# 11   0x00516c02: '<unknown (@0x516c02)>'
+# 12   0x00517b31: '<unknown (@0x517b31)>'
+# 13   0x7544acb5: '<unknown (@0x7544acb5)>'
+# 14   0x7544afc8: '<unknown (@0x7544afc8)>'
+StackWalk failed 0
+# End of Stack Trace
+
+# Current time Mon Aug 22 21:10:07 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00887a46. Traceback:
+# 0    0x00887a46: '<unknown (@0x887a46)>'
+# 1    0x00781803: '<unknown (@0x781803)>'
+# 2    0x0056bd55: '<unknown (@0x56bd55)>'
+# 3    0x0057d80a: '<unknown (@0x57d80a)>'
+# 4    0x0057dc49: '<unknown (@0x57dc49)>'
+# 5    0x0058108a: '<unknown (@0x58108a)>'
+# 6    0x0056db58: '<unknown (@0x56db58)>'
+# 7    0x005729b3: '<unknown (@0x5729b3)>'
+# 8    0x005172cb: '<unknown (@0x5172cb)>'
+# 9    0x753b39f1: '<unknown (@0x753b39f1)>'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Aug 22 21:37:04 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00887a46. Traceback:
+# 0    0x00887a46: '<unknown (@0x887a46)>'
+# 1    0x00781803: '<unknown (@0x781803)>'
+# 2    0x0056bd55: '<unknown (@0x56bd55)>'
+# 3    0x0057d80a: '<unknown (@0x57d80a)>'
+# 4    0x0057dc49: '<unknown (@0x57dc49)>'
+# 5    0x0058108a: '<unknown (@0x58108a)>'
+# 6    0x0056db58: '<unknown (@0x56db58)>'
+# 7    0x005729b3: '<unknown (@0x5729b3)>'
+# 8    0x005172cb: '<unknown (@0x5172cb)>'
+# 9    0x753b39f1: '<unknown (@0x753b39f1)>'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Aug 22 21:38:37 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00643aeb. Traceback:
+# 0    0x00643aeb: 'WinMain + 0xea75b'
+# 1    0x00616887: 'WinMain + 0xbd4f7'
+# 2    0x00643e03: 'WinMain + 0xeaa73'
+# 3    0x00641d07: 'WinMain + 0xe8977'
+# 4    0x005ee1f0: 'WinMain + 0x94e60'
+# 5    0x005b68b5: 'WinMain + 0x5d525'
+# 6    0x0051c4f0: 'EnumDispProc + 0x26970'
+# 7    0x0056d440: 'WinMain + 0x140b0'
+# 8    0x0051c5da: 'EnumDispProc + 0x26a5a'
+# 9    0x0051c6f6: 'EnumDispProc + 0x26b76'
+# 10   0x00516da6: 'EnumDispProc + 0x21226'
+# 11   0x00516c02: 'EnumDispProc + 0x21082'
+# 12   0x00517b31: 'EnumDispProc + 0x21fb1'
+# 13   0x7544acb5: 'Tcl_ServiceEvent + 0xc5'
+# 14   0x7544afc8: 'Tcl_DoOneEvent + 0xb8'
+StackWalk failed 0
+# End of Stack Trace
+
+# Current time Mon Aug 22 21:43:16 2022
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 008879c2. Traceback:
+# 0    0x008879c2: '<unknown (@0x8879c2)>'
+# 1    0x00606f5c: '<unknown (@0x606f5c)>'
+# 2    0x00608075: '<unknown (@0x608075)>'
+# 3    0x006021c0: '<unknown (@0x6021c0)>'
+# 4    0x005f1d87: '<unknown (@0x5f1d87)>'
+# 5    0x005f12dd: '<unknown (@0x5f12dd)>'
+# 6    0x005eecc0: '<unknown (@0x5eecc0)>'
+# 7    0x005ee913: '<unknown (@0x5ee913)>'
+# 8    0x005ee80f: '<unknown (@0x5ee80f)>'
+# 9    0x006436fd: '<unknown (@0x6436fd)>'
+# 10   0x00594e61: '<unknown (@0x594e61)>'
+# 11   0x005952bf: '<unknown (@0x5952bf)>'
+# 12   0x0059363b: '<unknown (@0x59363b)>'
+# 13   0x004f7329: '<unknown (@0x4f7329)>'
+# 14   0x753b39f1: '<unknown (@0x753b39f1)>'
+StackWalk failed 299
+# End of Stack Trace
+

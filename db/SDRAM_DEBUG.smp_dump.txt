@@ -1,0 +1,23 @@
+
+State Machine - |SDRAM_DEBUG|state
+Name state.SETADDR state.WAIT_END_PROCESS state.WAIT_START_PROCESS state.WRITE state.READ state.IDLE 
+state.IDLE 0 0 0 0 0 0 
+state.READ 0 0 0 0 1 1 
+state.WRITE 0 0 0 1 0 1 
+state.WAIT_START_PROCESS 0 0 1 0 0 1 
+state.WAIT_END_PROCESS 0 1 0 0 0 1 
+state.SETADDR 1 0 0 0 0 1 
+
+State Machine - |SDRAM_DEBUG|SDRAM_IS42S16160B_DRIVER:SDRAM1|state
+Name state.NOP_AFTER_R state.NOP_AFTER_W state.NOP_BEFORE_RW state.NOP_INIT_AREF state.PRECHARGE state.WRITE state.READ state.REFRESH state.ACTIVATE_ROW state.MRS state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 0 0 0 0 
+state.MRS 0 0 0 0 0 0 0 0 0 1 1 
+state.ACTIVATE_ROW 0 0 0 0 0 0 0 0 1 0 1 
+state.REFRESH 0 0 0 0 0 0 0 1 0 0 1 
+state.READ 0 0 0 0 0 0 1 0 0 0 1 
+state.WRITE 0 0 0 0 0 1 0 0 0 0 1 
+state.PRECHARGE 0 0 0 0 1 0 0 0 0 0 1 
+state.NOP_INIT_AREF 0 0 0 1 0 0 0 0 0 0 1 
+state.NOP_BEFORE_RW 0 0 1 0 0 0 0 0 0 0 1 
+state.NOP_AFTER_W 0 1 0 0 0 0 0 0 0 0 1 
+state.NOP_AFTER_R 1 0 0 0 0 0 0 0 0 0 1 

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Aug 24 19:00:23 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : SDRAM_DEBUG
+Top-level Entity Name : SDRAM_DEBUG
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 221 / 22,320 ( < 1 % )
+    Total combinational functions : 210 / 22,320 ( < 1 % )
+    Dedicated logic registers : 151 / 22,320 ( < 1 % )
+Total registers : 151
+Total pins : 52 / 154 ( 34 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

@@ -1,0 +1,161 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'START_READ'
+Slack : -3.389
+TNS   : -3.389
+
+Type  : Slow 1200mV 85C Model Setup 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : -1.714
+TNS   : -26.774
+
+Type  : Slow 1200mV 85C Model Setup 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.673
+TNS   : -17.779
+
+Type  : Slow 1200mV 85C Model Setup 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.581
+TNS   : -0.581
+
+Type  : Slow 1200mV 85C Model Hold 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.201
+TNS   : -0.201
+
+Type  : Slow 1200mV 85C Model Hold 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'START_READ'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : 0.542
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'START_READ'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_IN'
+Slack : 9.835
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'START_READ'
+Slack : -2.944
+TNS   : -2.944
+
+Type  : Slow 1200mV 0C Model Setup 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : -1.428
+TNS   : -22.270
+
+Type  : Slow 1200mV 0C Model Setup 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.427
+TNS   : -15.172
+
+Type  : Slow 1200mV 0C Model Setup 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.450
+TNS   : -0.450
+
+Type  : Slow 1200mV 0C Model Hold 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.264
+TNS   : -0.264
+
+Type  : Slow 1200mV 0C Model Hold 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.214
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'START_READ'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : 0.482
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'START_READ'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.314
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.316
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_IN'
+Slack : 9.818
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'START_READ'
+Slack : -1.543
+TNS   : -1.543
+
+Type  : Fast 1200mV 0C Model Setup 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.056
+TNS   : -11.206
+
+Type  : Fast 1200mV 0C Model Setup 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : -0.509
+TNS   : -7.792
+
+Type  : Fast 1200mV 0C Model Setup 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.433
+TNS   : -0.433
+
+Type  : Fast 1200mV 0C Model Hold 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.108
+TNS   : -0.108
+
+Type  : Fast 1200mV 0C Model Hold 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'START_READ'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SDRAM_IS42S16160B_DRIVER:SDRAM1|ready_data'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'START_READ'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL1|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL1|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_IN'
+Slack : 9.587
+TNS   : 0.000
+
+------------------------------------------------------------

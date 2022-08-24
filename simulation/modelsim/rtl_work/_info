@@ -1,0 +1,156 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Job/project_quartus/SDRAM_DEBUG/simulation/modelsim
+vIS42S16160
+!s110 1661356017
+!i10b 1
+!s100 eXc^n^:]0TdMmNJMDFHj03
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8Yh=eigT=S4^GIjY8<MHL1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1661175630
+8D:/Job/project_quartus/SDRAM_DEBUG/42s16160.v
+FD:/Job/project_quartus/SDRAM_DEBUG/42s16160.v
+!i122 174
+L0 14 938
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1661356017.000000
+!s107 D:/Job/project_quartus/SDRAM_DEBUG/42s16160.v|
+!s90 -reportprogress|300|-work|work|D:/Job/project_quartus/SDRAM_DEBUG/42s16160.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@i@s42@s16160
+vPLL
+Z7 !s110 1661356018
+!i10b 1
+!s100 5Y;bG`LaGYCLfJ3n5n2UQ2
+R1
+IU419SdmHjgz7d]_BR[g[T3
+R2
+R0
+w1661352828
+8D:/Job/project_quartus/SDRAM_DEBUG/PLL.v
+FD:/Job/project_quartus/SDRAM_DEBUG/PLL.v
+!i122 175
+L0 40 118
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Job/project_quartus/SDRAM_DEBUG/PLL.v|
+!s90 -reportprogress|300|-work|work|D:/Job/project_quartus/SDRAM_DEBUG/PLL.v|
+!i113 1
+R5
+R6
+n@p@l@l
+vPLL_altpll
+!s110 1661326850
+!i10b 1
+!s100 ;7g1g4W`Xm_d5EZVHdkDM3
+R1
+IU?O>H@3G`e44@CzVg_DQ63
+R2
+R0
+w1660672845
+8D:/Job/project_quartus/SDRAM_DEBUG/db/pll_altpll.v
+FD:/Job/project_quartus/SDRAM_DEBUG/db/pll_altpll.v
+!i122 2
+L0 30 67
+R3
+r1
+!s85 0
+31
+!s108 1661326850.000000
+!s107 D:/Job/project_quartus/SDRAM_DEBUG/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Job/project_quartus/SDRAM_DEBUG/db|D:/Job/project_quartus/SDRAM_DEBUG/db/pll_altpll.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/Job/project_quartus/SDRAM_DEBUG/db
+R6
+n@p@l@l_altpll
+vSDRAM_DEBUG
+R7
+!i10b 1
+!s100 P<88:J4R[B[6=AYV5BTY@0
+R1
+I5<eh:NBhP4X9ZS19PZh@g0
+R2
+R0
+w1661351220
+8D:/Job/project_quartus/SDRAM_DEBUG/SDRAM_DEBUG.v
+FD:/Job/project_quartus/SDRAM_DEBUG/SDRAM_DEBUG.v
+!i122 176
+L0 11 259
+R3
+r1
+!s85 0
+31
+Z8 !s108 1661356018.000000
+!s107 D:/Job/project_quartus/SDRAM_DEBUG/SDRAM_DEBUG.v|
+!s90 -reportprogress|300|-work|work|D:/Job/project_quartus/SDRAM_DEBUG/SDRAM_DEBUG.v|
+!i113 1
+R5
+R6
+n@s@d@r@a@m_@d@e@b@u@g
+vSDRAM_DEBUG_vlg_tst
+!s110 1661347840
+!i10b 1
+!s100 K;BmdSSVoiQlE?]z`VZ2K0
+R1
+IfolZSSi8TTTnicmjC9OCG2
+R2
+R0
+w1661347833
+8D:/Job/project_quartus/SDRAM_DEBUG/simulation/modelsim/SDRAM_DEBUG.vt
+FD:/Job/project_quartus/SDRAM_DEBUG/simulation/modelsim/SDRAM_DEBUG.vt
+!i122 82
+L0 30 66
+R3
+r1
+!s85 0
+31
+!s108 1661347840.000000
+!s107 42s16160.v|D:/Job/project_quartus/SDRAM_DEBUG/simulation/modelsim/SDRAM_DEBUG.vt|
+!s90 -reportprogress|300|-work|work|D:/Job/project_quartus/SDRAM_DEBUG/simulation/modelsim/SDRAM_DEBUG.vt|
+!i113 1
+R5
+R6
+n@s@d@r@a@m_@d@e@b@u@g_vlg_tst
+vSDRAM_IS42S16160B_DRIVER
+R7
+!i10b 1
+!s100 N4Lgggb1]><;FzzWY2Rzo3
+R1
+Ie6>AVEB;VoF>MTXeaT=2k3
+R2
+R0
+w1661356012
+8D:/Job/project_quartus/SDRAM_DEBUG/SDRAM_IS42S16160B_DRIVER.v
+FD:/Job/project_quartus/SDRAM_DEBUG/SDRAM_IS42S16160B_DRIVER.v
+!i122 177
+L0 12 449
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/Job/project_quartus/SDRAM_DEBUG/SDRAM_IS42S16160B_DRIVER.v|
+!s90 -reportprogress|300|-work|work|D:/Job/project_quartus/SDRAM_DEBUG/SDRAM_IS42S16160B_DRIVER.v|
+!i113 1
+R5
+R6
+n@s@d@r@a@m_@i@s42@s16160@b_@d@r@i@v@e@r
