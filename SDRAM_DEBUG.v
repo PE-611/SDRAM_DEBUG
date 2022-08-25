@@ -82,6 +82,14 @@ initial begin
 
 end
 
+// assign ADDR_COL	[8:0] = addr[8:0];
+// assign ADDR_ROW	[12:0] = addr[21:9];
+// assign BANK			[1:0] = addr[23:22];
+ 
+// assign ADDR_COL	[12:9] = 4'b0000;
+// //assign ADDR_ROW	[12:3] = 9'b000000000;
+	
+	
 assign ADDR_COL	[2:0] = addr[2:0];
 assign ADDR_ROW	[2:0] = addr[5:3];
 assign BANK			[1:0] = addr[7:6];
